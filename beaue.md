@@ -1,7 +1,4 @@
-Beaue uses advanced technology to turn your device into your own hearing aid.
-Our advantages:
-* 1. Unique noise reduction algorithm, which enables you to get clear hearing experience in various environments;
-* 2, the unique lock screen operation and background running function, not only save battery consumption but also make your hearing experience not interrupted;
+Beaue is a simple, easy-to-use application that lets you filter noise and amplify sound in different environments. Allows you to customize the magnification of different frequencies and adjust the background noise. After digital signal processing, you can display the sound effect on the headphones to make you hear more clearly.
 
 # contact us
 HaroldR.Cox@foxmail.com
